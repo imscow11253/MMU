@@ -20,7 +20,7 @@ I implemented 5 main function in kumoo.h. And then, kumoo.c use this function.
 </br>
 When CPU access virtual address space, memory virtualization work like above architecture.
 
-</br>
+</br></br>
 
 ![이미지2](images/운영체제-283.jpg)
 
